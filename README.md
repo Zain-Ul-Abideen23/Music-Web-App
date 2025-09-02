@@ -56,10 +56,6 @@ Create a dynamic music library with JSON or APIs.
 Implement user authentication for real accounts.
 
 
-🔥 About Me
-
-I’m passionate about Web Development and constantly improving my skills in Frontend technologies.
-This project is just the beginning of my journey 🚀
 
 🔥 About Me
 
